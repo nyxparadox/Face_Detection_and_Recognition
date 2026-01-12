@@ -1,0 +1,20 @@
+# ===============================
+# Face_Detection_and_Recognition
+# ===============================
+
+
+# trained models & embeddings
+*.pkl
+*.npz
+*.yml
+*.h5
+
+# virtual environments
+.venv/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+
+
